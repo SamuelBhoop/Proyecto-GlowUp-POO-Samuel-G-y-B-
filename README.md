@@ -17,6 +17,10 @@
 </p>
 
 ---
+## 👥 Usuarios de prueba
+- Dueña: `sakura@glowup.com` / `1234`
+- AdminContenido: `editor@glowup.com` / `1234`
+- Crea un Cliente desde el menú para comprar.
 
 ## Funcionalidades
 
@@ -45,4 +49,19 @@
 | **produccion** | Fabrica |
 | **operaciones** | TrabajadorEsclavizado, RegistroEsclavos, ConsejoSombrio |
 
+<p align="center">
+  <img src="docs/glowup-section-como-ejecutar-onyx.png" alt="Cómo ejecutar — GlowUp" width="100%">
+</p>
 
+## 🚀 Requisitos
+- Java 17+ (JDK)
+- IntelliJ IDEA (o cualquier IDE)
+
+## ▶️ Cómo ejecutar
+**Opción A – IntelliJ**
+1. Abrir el proyecto.
+2. Marcar `src/` como *Sources Root* (si hace falta).
+3. Ejecutar `app.Main`.
+
+
+---
