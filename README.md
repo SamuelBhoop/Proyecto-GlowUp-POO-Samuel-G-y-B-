@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="docs/glowup-banner-dark-onyx.png" alt="GlowUp — POO en Java" width="100%">
+</p>
+
 <h1 align="center"> GlowUp — POO en Java (Consola)</h1>
 
 <p align="center">
